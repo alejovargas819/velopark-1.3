@@ -3,7 +3,7 @@
 package Logica;
 
 /* Esta clase es la encargada de conectar al formulario Historico con la BD y para ello se 
-   realizan algunas consultas de las tablas registro y mensualidad*/
+   realizan algunas consultas de las tablas registro y mensualidad..*/
 
 import Datos.vregistro;
 import Presentacion.frmregistro;
