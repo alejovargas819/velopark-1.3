@@ -12,6 +12,7 @@ public class vtarifas {
     Double precio_tarifa;
     Double precio_plena_min;
 
+
     public vtarifas() {
     }
 

@@ -4,7 +4,7 @@ package Datos;
 
 /* Esta clase es la que inicializa y declara las varibles previamente creadas en la BD MySQL,
    de la tabla persona se declaran los metodos GET y SETTER para luego ser llamados en 
-   las demas clases  */
+   las demas clases**/
 
 public class vtrabajador extends vpersona{
      
